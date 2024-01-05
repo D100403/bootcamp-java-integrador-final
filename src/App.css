@@ -49,6 +49,7 @@ img {
 }
 
 .grid {
+  background-color: #E5E1DA;
   display: grid;
   grid-template-columns: 2fr 1fr;
   padding: 0 200px;
