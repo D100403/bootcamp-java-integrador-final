@@ -5,6 +5,7 @@ export const handlers = [
         return res(
             ctx.json([
                 {
+                    "_id":"63741002e2c75d8744f80a50",
                     "id": 5,
                     "title": "Juego de Tronos",
                     "creator": "David Benioff, D.B. Weiss",

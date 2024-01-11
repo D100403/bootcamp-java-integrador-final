@@ -1,8 +1,10 @@
+import styles from './BuscadorStyle.css';
+
 const Buscador = () => {
-    return <div class="px-5 mt-5">
+    return <div className="px-5 mt-5 buscador">
         <h2>Buscar</h2>
-                <label class="form-label" htmlFor="inputTitle">Título</label>
-                <input class="form-control" type="text" id="inputTitle"/>
+                <label className="form-label" htmlFor="inputTitle">Título</label>
+                <input className="form-control" type="text" id="inputTitle"/>
     </div>;
 }
 

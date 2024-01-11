@@ -1,5 +1,5 @@
 {
-  "name": "integrador_final",
+  "name": "mockserviceworker_test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.32.2",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router-dom": "^6.21.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
